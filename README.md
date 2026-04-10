@@ -8,8 +8,7 @@ I build scalable architectures, data-intensive systems, and AI-powered products 
 - ⚙️ Experienced in **backend engineering**, **data engineering**, **AI/ML**, and **platform design**  
 - 🌍 Based in **Alcalá de Henares, Madrid, Spain**  
 - 🌐 Portfolio: https://www.luisforni.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/luis-forni-97aa49223  
-- 🐦 X/Twitter: https://x.com/luisforni  
+- 💼 LinkedIn: https://www.linkedin.com/in/luis-forni-97aa49223
 
 ---
 
@@ -91,5 +90,4 @@ A clean, scalable monorepo structure with isolated domains, shared libraries, au
 ## 📫 Connect with me
 
 - Portfolio: https://www.luisforni.com  
-- LinkedIn: https://www.linkedin.com/in/luis-forni-97aa49223  
-- X/Twitter: https://x.com/luisforni  
+- LinkedIn: https://www.linkedin.com/in/luis-forni-97aa49223   
